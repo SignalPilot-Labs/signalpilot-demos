@@ -100,6 +100,13 @@
       "description": "Turn a wide country-by-year gold-reserve sheet into a tidy panel, rank gainers/losers from 2002–2022, and generate publication-ready visuals.",
       "category": ["Repo & Local File Scanning", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results", "Export & Publish"],
       "icp": ["Quant Research", "Scientific Research"]
+    },
+    {
+      "id": "usecase-14",
+      "name": "Alpaca Trading Volume by Asset Class",
+      "description": "Break down total trading volume by asset class (stocks, options, crypto), visualize trends over time, and project crossover points between growing categories.",
+      "category": ["Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
+      "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
     }
   ]
 }
