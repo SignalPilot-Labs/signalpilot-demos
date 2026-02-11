@@ -114,6 +114,41 @@
       "description": "Pull trade error rates and net capital ratios from PostgreSQL, assess SEC Rule 15c3-1 compliance, and surface open exceptions with FINRA exam risk.",
       "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
       "icp": ["Data Scientists & Analytics", "Quant Research"]
+    },
+    {
+      "id": "usecase-16",
+      "name": "Human Interest: 401(k) AUM Growth Analysis",
+      "description": "Track total AUM growth across 401(k) plans, decompose organic contributions vs market appreciation, and project the path to $15B.",
+      "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
+      "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
+    },
+    {
+      "id": "usecase-17",
+      "name": "Incident.io ARR by Product Line",
+      "description": "Break down ARR across Incident Response, On-Call, and Status Pages, visualize the product mix shift, and project when On-Call overtakes IR.",
+      "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
+      "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
+    },
+    {
+      "id": "usecase-18",
+      "name": "Loop Returns: Exchange Rate & Revenue Retention",
+      "description": "Measure platform-wide exchange-vs-refund rates, quantify revenue retained per percentage point shift, and analyze peak-season trends.",
+      "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
+      "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
+    },
+    {
+      "id": "usecase-19",
+      "name": "Recurrency: Before vs After Revenue & Margin Lift",
+      "description": "Compare per-customer order value, margin, and frequency before and after Recurrency go-live to quantify the platform's impact.",
+      "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
+      "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
+    },
+    {
+      "id": "usecase-20",
+      "name": "Shaped: CTR Lift from Recommendation Engine",
+      "description": "Analyze A/B test results across verticals to measure Shaped's CTR lift, and show how catalog size and data volume drive recommendation quality.",
+      "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
+      "icp": ["Data Scientists & Analytics", "ML Engineers"]
     }
   ]
 }
