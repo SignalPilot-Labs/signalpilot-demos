@@ -5,7 +5,7 @@
     "messages": [
       {
         "role": "user",
-        "content": "What is the avg CTR lift from our recommendations? <DATABASE_CONTEXT>#{database-c131128a-f38d-44c7-977c-58d99661073a}</DATABASE_CONTEXT>",
+        "content": "What is the avg CTR lift from our recommendations?",
         "id": "msg_1770841325925_ntdn7xy",
         "hidden": false
       },
@@ -598,18 +598,9 @@
       }
     ],
     "lastUpdated": 1770841553791,
-    "contexts": {
-      "database-c131128a-f38d-44c7-977c-58d99661073a": {
-        "type": "database",
-        "id": "database-c131128a-f38d-44c7-977c-58d99661073a",
-        "name": "Shaped",
-        "description": "PostgreSQL database connection (Credential Connection)",
-        "content": "Shaped\n\nENVIRONMENT VARIABLES\n=====================\nThese environment variables are set in the kernel for this database:\n  SHAPED_CONNECTION_URL\n  SHAPED_HOST\n  SHAPED_PORT\n  SHAPED_DATABASE\n  SHAPED_USERNAME\n  SHAPED_PASSWORD\n  SHAPED_TYPE\n\nTABLES\n======\npublic.shaped_customers\npublic.shaped_events_daily\n",
-        "isDirectory": false
-      }
-    },
+    "contexts": {},
     "message_timestamps": {
-      "{\"role\":\"user\",\"content\":\"What is the avg CTR lift from our recommendations? <DATABASE_CONTEXT>#{database-c131128a-f38d-44c7-977c-58d99661073a}</DATABASE_CONTEXT>\",\"id\":\"msg_1770841325925_ntdn7xy\",\"hidden\":false}": 1770841325928,
+      "{\"role\": \"user\", \"content\": \"What is the avg CTR lift from our recommendations?\", \"id\": \"msg_1770841325925_ntdn7xy\", \"hidden\": false}": 1770841325928,
       "{\"role\":\"assistant\",\"content\":\"I'll help you find the average CTR lift from recommendations in the Shaped database. Let me first fetch the relevant database rules and explore the schema to understand the data structure.\"}": 1770841329741,
       "{\"role\":\"assistant\",\"content\":[{\"type\":\"tool_use\",\"id\":\"toolu_01L5eG5e2paGxAY3YaZ6PJF2\",\"name\":\"rules-get_rules\",\"input\":{\"filenames\":[\"postgres\"]}}]}": 1770841330781,
       "{\"role\":\"assistant\",\"content\":[{\"type\":\"tool_use\",\"id\":\"toolu_01DVSxtX2zSB3ux97n9RKdTH\",\"name\":\"database-schema-search\",\"input\":{\"query\":\"CTR lift recommendations click through rate\",\"database_id\":\"Shaped\"}}]}": 1770841330782,

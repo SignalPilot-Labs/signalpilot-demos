@@ -5,7 +5,7 @@
     "messages": [
       {
         "role": "user",
-        "content": "What is our trade error rate and net capital ratio relative to regulatory minimums?<DATABASE_CONTEXT>#{database-464d4be3-3689-41fd-b0f0-e17a9e203ab0}</DATABASE_CONTEXT>",
+        "content": "What is our trade error rate and net capital ratio relative to regulatory minimums?",
         "id": "msg_1770825946850_b2uho1o",
         "hidden": false
       },
@@ -678,18 +678,9 @@
       }
     ],
     "lastUpdated": 1770826201888,
-    "contexts": {
-      "database-464d4be3-3689-41fd-b0f0-e17a9e203ab0": {
-        "type": "database",
-        "id": "database-464d4be3-3689-41fd-b0f0-e17a9e203ab0",
-        "name": "Postgres",
-        "description": "PostgreSQL database connection (Credential Connection)",
-        "content": "Postgres\n\nENVIRONMENT VARIABLES\n=====================\nThese environment variables are set in the kernel for this database:\n  ALPACA_CONNECTION_URL\n  ALPACA_HOST\n  ALPACA_PORT\n  ALPACA_DATABASE\n  ALPACA_USERNAME\n  ALPACA_PASSWORD\n  ALPACA_TYPE\n\nTABLES\n======\npublic.alpaca_capital_reports\npublic.alpaca_compliance_exceptions\npublic.alpaca_entities\npublic.alpaca_regulatory_examinations\npublic.alpaca_trade_summary\n",
-        "isDirectory": false
-      }
-    },
+    "contexts": {},
     "message_timestamps": {
-      "{\"role\":\"user\",\"content\":\"What is our trade error rate and net capital ratio relative to regulatory minimums?<DATABASE_CONTEXT>#{database-464d4be3-3689-41fd-b0f0-e17a9e203ab0}</DATABASE_CONTEXT>\",\"id\":\"msg_1770825946850_b2uho1o\",\"hidden\":false}": 1770825946854,
+      "{\"role\": \"user\", \"content\": \"What is our trade error rate and net capital ratio relative to regulatory minimums?\", \"id\": \"msg_1770825946850_b2uho1o\", \"hidden\": false}": 1770825946854,
       "{\"role\":\"assistant\",\"content\":\"I'll help you analyze the trade error rate and net capital ratio relative to regulatory minimums. Let me first fetch the database rules and explore the schema to understand the available data.\"}": 1770825950225,
       "{\"role\":\"assistant\",\"content\":[{\"type\":\"tool_use\",\"id\":\"toolu_011KEV1PuayyGBf3xDQtoevp\",\"name\":\"rules-get_rules\",\"input\":{\"filenames\":[\"postgres\"]}}]}": 1770825951197,
       "{\"role\":\"assistant\",\"content\":[{\"type\":\"tool_use\",\"id\":\"toolu_01Vx3HkGtaWtsxFXUe9agdTK\",\"name\":\"database-schema-search\",\"input\":{\"query\":\"trade error rate net capital ratio regulatory compliance\",\"database_id\":\"Postgres\"}}]}": 1770825951198,

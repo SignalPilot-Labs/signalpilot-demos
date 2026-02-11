@@ -5,7 +5,7 @@
     "messages": [
       {
         "role": "user",
-        "content": "What is our ARR by product line and how has the mix shifted? <DATABASE_CONTEXT>#{database-409707dd-f4d6-483c-893e-4fc6d6a42dc8}</DATABASE_CONTEXT>",
+        "content": "What is our ARR by product line and how has the mix shifted?",
         "id": "msg_1770832783241_0klrjyn",
         "hidden": false
       },
@@ -621,18 +621,9 @@
       }
     ],
     "lastUpdated": 1770832981939,
-    "contexts": {
-      "database-409707dd-f4d6-483c-893e-4fc6d6a42dc8": {
-        "type": "database",
-        "id": "database-409707dd-f4d6-483c-893e-4fc6d6a42dc8",
-        "name": "Incident.io",
-        "description": "PostgreSQL database connection (Credential Connection)",
-        "content": "Incident.io\n\nENVIRONMENT VARIABLES\n=====================\nThese environment variables are set in the kernel for this database:\n  INCIDENT_IO_CONNECTION_URL\n  INCIDENT_IO_HOST\n  INCIDENT_IO_PORT\n  INCIDENT_IO_DATABASE\n  INCIDENT_IO_USERNAME\n  INCIDENT_IO_PASSWORD\n  INCIDENT_IO_TYPE\n\nTABLES\n======\npublic.incidentio_customers\npublic.incidentio_skus\npublic.incidentio_subscriptions\n",
-        "isDirectory": false
-      }
-    },
+    "contexts": {},
     "message_timestamps": {
-      "{\"role\":\"user\",\"content\":\"What is our ARR by product line and how has the mix shifted? <DATABASE_CONTEXT>#{database-409707dd-f4d6-483c-893e-4fc6d6a42dc8}</DATABASE_CONTEXT>\",\"id\":\"msg_1770832783241_0klrjyn\",\"hidden\":false}": 1770832783244,
+      "{\"role\": \"user\", \"content\": \"What is our ARR by product line and how has the mix shifted?\", \"id\": \"msg_1770832783241_0klrjyn\", \"hidden\": false}": 1770832783244,
       "{\"role\":\"assistant\",\"content\":\"I'll analyze the ARR by product line and how the mix has shifted. Let me first fetch the database rules and explore the schema to understand the data structure.\"}": 1770832786504,
       "{\"role\":\"assistant\",\"content\":[{\"type\":\"tool_use\",\"id\":\"toolu_01S67kmikX225DuscHQqC3mh\",\"name\":\"rules-get_rules\",\"input\":{\"filenames\":[\"postgres\"]}}]}": 1770832787821,
       "{\"role\":\"assistant\",\"content\":[{\"type\":\"tool_use\",\"id\":\"toolu_01EqqB14cMEWqBkRjNv8jwuU\",\"name\":\"database-schema-search\",\"input\":{\"query\":\"subscriptions products SKU ARR revenue recurring\",\"database_id\":\"Incident.io\"}}]}": 1770832787821,
