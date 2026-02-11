@@ -107,6 +107,13 @@
       "description": "Break down total trading volume by asset class (stocks, options, crypto), visualize trends over time, and project crossover points between growing categories.",
       "category": ["Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
       "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
+    },
+    {
+      "id": "usecase-15",
+      "name": "Alpaca Regulatory Compliance Dashboard",
+      "description": "Pull trade error rates and net capital ratios from PostgreSQL, assess SEC Rule 15c3-1 compliance, and surface open exceptions with FINRA exam risk.",
+      "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
+      "icp": ["Data Scientists & Analytics", "Quant Research"]
     }
   ]
 }
