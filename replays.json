@@ -32,13 +32,6 @@
       "icp": ["Quant Research"]
     },
     {
-      "id": "usecase-3",
-      "name": "Event-to-RSVP Funnel Drop-off (Amplitude + Internal DB)",
-      "description": "Join Amplitude product events to internal RSVPs, analyze funnel drop-off, and generate a PM-ready narrative of where users churn.",
-      "category": ["DB & Schema Awareness", "Multi-step Planning", "Interpret Plots & Results"],
-      "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
-    },
-    {
       "id": "usecase-4",
       "name": "PM2.5 Air Quality Forecasting (Beijing)",
       "description": "Extend a real PM2.5 forecasting notebook with new features, model runs, and plots ready for a paper or stakeholder report.",
@@ -51,6 +44,36 @@
       "description": "Backtest a cointegration-based GLD/SLV mean-reversion strategy—from spread construction to trade rules and P&L—in one notebook.",
       "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
       "icp": ["Quant Research", "Product Engineers & Technical Founders"]
+    },
+    {
+      "id": "usecase-10",
+      "name": "Campaign Spend vs Votes: NYC Elections",
+      "description": "Clean and join messy NYC campaign CSVs, fuzzy-match candidates, and see which campaigns turned dollars into votes most efficiently.",
+      "category": ["Repo & Local File Scanning", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
+      "icp": ["Scientific Research"]
+    },
+    {
+      "id": "usecase-12",
+      "name": "Global Gold Reserves: 20-Year Country Panel",
+      "description": "Turn a wide country-by-year gold-reserve sheet into a tidy panel, rank gainers/losers from 2002–2022, and generate publication-ready visuals.",
+      "category": ["Repo & Local File Scanning", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results", "Export & Publish"],
+      "icp": ["Quant Research", "Scientific Research"]
+    },
+    {
+      "id": "usecase-14",
+      "name": "Alpaca Trading Volume by Asset Class",
+      "description": "Break down total trading volume by asset class (stocks, options, crypto), visualize trends over time, and project crossover points between growing categories.",
+      "category": ["Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
+      "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
+    }
+  ],
+  "replays": [
+    {
+      "id": "usecase-3",
+      "name": "Event-to-RSVP Funnel Drop-off (Amplitude + Internal DB)",
+      "description": "Join Amplitude product events to internal RSVPs, analyze funnel drop-off, and generate a PM-ready narrative of where users churn.",
+      "category": ["DB & Schema Awareness", "Multi-step Planning", "Interpret Plots & Results"],
+      "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
     },
     {
       "id": "usecase-6",
@@ -81,35 +104,12 @@
       "icp": ["Quant Research", "Scientific Research"]
     },
     {
-      "id": "usecase-10",
-      "name": "Campaign Spend vs Votes: NYC Elections",
-      "description": "Clean and join messy NYC campaign CSVs, fuzzy-match candidates, and see which campaigns turned dollars into votes most efficiently.",
-      "category": ["Repo & Local File Scanning", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["Scientific Research"]
-    },
-    {
       "id": "usecase-11",
       "name": "Sector Rotation Backtest: ETF Momentum Strategy",
       "description": "Prototype a sector ETF momentum strategy—pull prices, define rules, backtest, and compare against SPY and equal-weight benchmarks.",
       "category": ["SignalPilot Rules & Skills", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
       "icp": ["Quant Research", "Product Engineers & Technical Founders"]
     },
-    {
-      "id": "usecase-12",
-      "name": "Global Gold Reserves: 20-Year Country Panel",
-      "description": "Turn a wide country-by-year gold-reserve sheet into a tidy panel, rank gainers/losers from 2002–2022, and generate publication-ready visuals.",
-      "category": ["Repo & Local File Scanning", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results", "Export & Publish"],
-      "icp": ["Quant Research", "Scientific Research"]
-    },
-    {
-      "id": "usecase-14",
-      "name": "Alpaca Trading Volume by Asset Class",
-      "description": "Break down total trading volume by asset class (stocks, options, crypto), visualize trends over time, and project crossover points between growing categories.",
-      "category": ["Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
-    }
-  ],
-  "replays": [
     {
       "id": "usecase-15",
       "name": "Alpaca Regulatory Compliance Dashboard",
