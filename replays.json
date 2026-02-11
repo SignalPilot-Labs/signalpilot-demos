@@ -16,7 +16,7 @@
     "Import from Web & APIs",
     "Export & Publish"
   ],
-  "replays": [
+  "_disabled_replays": [
     {
       "id": "usecase-1",
       "name": "Build an SPX Options IV Surface",
@@ -107,7 +107,9 @@
       "description": "Break down total trading volume by asset class (stocks, options, crypto), visualize trends over time, and project crossover points between growing categories.",
       "category": ["Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
       "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
-    },
+    }
+  ],
+  "replays": [
     {
       "id": "usecase-15",
       "name": "Alpaca Regulatory Compliance Dashboard",
