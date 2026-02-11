@@ -22,7 +22,7 @@
     "messages": [
       {
         "role": "user",
-        "content": "What is the avg revenue/margin improvement we deliver? <DATABASE_CONTEXT>#{database-38c74141-c853-4ca3-8f5d-06f8bca89048}</DATABASE_CONTEXT>",
+        "content": "What is the avg revenue/margin improvement we deliver?",
         "id": "msg_1770838223261_08txo1z",
         "hidden": false
       },
@@ -410,7 +410,7 @@
     "lastUpdated": 1770838300525,
     "contexts": {},
     "message_timestamps": {
-      "{\"role\":\"user\",\"content\":\"What is the avg revenue/margin improvement we deliver? <DATABASE_CONTEXT>#{database-38c74141-c853-4ca3-8f5d-06f8bca89048}</DATABASE_CONTEXT>\",\"id\":\"msg_1770838223261_08txo1z\",\"hidden\":false}": 1770838223262,
+      "{\"role\": \"user\", \"content\": \"What is the avg revenue/margin improvement we deliver?\", \"id\": \"msg_1770838223261_08txo1z\", \"hidden\": false}": 1770838223262,
       "{\"role\":\"assistant\",\"content\":\"I'll help you analyze the average revenue/margin improvement delivered. Let me first explore the database schema to find relevant tables, and fetch the database exploration rules.\"}": 1770838226871,
       "{\"role\":\"assistant\",\"content\":[{\"type\":\"tool_use\",\"id\":\"toolu_01KooQahsekvXd6gbJWDchrN\",\"name\":\"database-schema-search\",\"input\":{\"query\":\"revenue margin improvement customer results performance\",\"database_id\":\"Recurrency\"}}]}": 1770838228011,
       "{\"role\":\"assistant\",\"content\":[{\"type\":\"tool_use\",\"id\":\"toolu_01PTSapS9yN8F1eA9cvhMcpP\",\"name\":\"rules-get_rules\",\"input\":{\"filenames\":[\"database-exploration\",\"postgres\"]}}]}": 1770838228012,

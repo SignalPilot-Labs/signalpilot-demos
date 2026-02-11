@@ -5,7 +5,7 @@
     "messages": [
       {
         "role": "user",
-        "content": "What is our total AUM and how has it grown QoQ? <DATABASE_CONTEXT>#{database-6de2f68a-5925-4adb-9d27-5936b4447338}</DATABASE_CONTEXT>",
+        "content": "What is our total AUM and how has it grown QoQ?",
         "id": "msg_1770832421348_b94y1wg",
         "hidden": false
       },
@@ -417,18 +417,9 @@
       }
     ],
     "lastUpdated": 1770832608408,
-    "contexts": {
-      "database-6de2f68a-5925-4adb-9d27-5936b4447338": {
-        "type": "database",
-        "id": "database-6de2f68a-5925-4adb-9d27-5936b4447338",
-        "name": "Human Interest",
-        "description": "PostgreSQL database connection (Credential Connection)",
-        "content": "Human Interest\n\nENVIRONMENT VARIABLES\n=====================\nThese environment variables are set in the kernel for this database:\n  HUMAN_INTEREST_CONNECTION_URL\n  HUMAN_INTEREST_HOST\n  HUMAN_INTEREST_PORT\n  HUMAN_INTEREST_DATABASE\n  HUMAN_INTEREST_USERNAME\n  HUMAN_INTEREST_PASSWORD\n  HUMAN_INTEREST_TYPE\n\nTABLES\n======\npublic.hi_plan_snapshots\npublic.hi_plans\n",
-        "isDirectory": false
-      }
-    },
+    "contexts": {},
     "message_timestamps": {
-      "{\"role\":\"user\",\"content\":\"What is our total AUM and how has it grown QoQ? <DATABASE_CONTEXT>#{database-6de2f68a-5925-4adb-9d27-5936b4447338}</DATABASE_CONTEXT>\",\"id\":\"msg_1770832421348_b94y1wg\",\"hidden\":false}": 1770832421351,
+      "{\"role\": \"user\", \"content\": \"What is our total AUM and how has it grown QoQ?\", \"id\": \"msg_1770832421348_b94y1wg\", \"hidden\": false}": 1770832421351,
       "{\"role\":\"assistant\",\"content\":[{\"type\":\"tool_use\",\"id\":\"toolu_01HvBBrZ12zfm18yKcG586bp\",\"name\":\"rules-get_rules\",\"input\":{\"filenames\":[\"postgres\"]}}]}": 1770832426707,
       "{\"role\":\"assistant\",\"content\":[{\"type\":\"tool_use\",\"id\":\"toolu_01Pe6F9HefxFtkUpCsFsrZAs\",\"name\":\"database-schema-search\",\"input\":{\"query\":\"AUM assets under management total value\",\"database_id\":\"Human Interest\"}}]}": 1770832426709,
       "{\"role\":\"user\",\"content\":[{\"type\":\"tool_result\",\"tool_use_id\":\"toolu_01HvBBrZ12zfm18yKcG586bp\",\"content\":\"{\\\"success\\\":true,\\\"loaded_rule_filenames\\\":[\\\"postgres\\\"]}\"}]}": 1770832426717,

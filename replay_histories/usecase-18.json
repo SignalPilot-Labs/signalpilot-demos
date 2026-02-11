@@ -5,7 +5,7 @@
     "messages": [
       {
         "role": "user",
-        "content": "What is the avg exchange rate (vs refund) on our platform? <DATABASE_CONTEXT>#{database-006b4170-9aa3-4f05-9bfd-904f1b3bb6c7}</DATABASE_CONTEXT>",
+        "content": "What is the avg exchange rate (vs refund) on our platform?",
         "id": "msg_1770833397448_efqcr2x",
         "hidden": false
       },
@@ -372,18 +372,9 @@
       }
     ],
     "lastUpdated": 1770836850098,
-    "contexts": {
-      "database-006b4170-9aa3-4f05-9bfd-904f1b3bb6c7": {
-        "type": "database",
-        "id": "database-006b4170-9aa3-4f05-9bfd-904f1b3bb6c7",
-        "name": "Loop Returns",
-        "description": "PostgreSQL database connection (Credential Connection)",
-        "content": "Loop Returns\n\nENVIRONMENT VARIABLES\n=====================\nThese environment variables are set in the kernel for this database:\n  LOOP_RETURNS_CONNECTION_URL\n  LOOP_RETURNS_HOST\n  LOOP_RETURNS_PORT\n  LOOP_RETURNS_DATABASE\n  LOOP_RETURNS_USERNAME\n  LOOP_RETURNS_PASSWORD\n  LOOP_RETURNS_TYPE\n\nTABLES\n======\npublic.loop_merchants\npublic.loop_monthly_summary\npublic.loop_return_events\n",
-        "isDirectory": false
-      }
-    },
+    "contexts": {},
     "message_timestamps": {
-      "{\"role\":\"user\",\"content\":\"What is the avg exchange rate (vs refund) on our platform? <DATABASE_CONTEXT>#{database-006b4170-9aa3-4f05-9bfd-904f1b3bb6c7}</DATABASE_CONTEXT>\",\"id\":\"msg_1770833397448_efqcr2x\",\"hidden\":false}": 1770833397450,
+      "{\"role\": \"user\", \"content\": \"What is the avg exchange rate (vs refund) on our platform?\", \"id\": \"msg_1770833397448_efqcr2x\", \"hidden\": false}": 1770833397450,
       "{\"role\":\"assistant\",\"content\":[{\"type\":\"tool_use\",\"id\":\"toolu_01NgZqLcPsgdn968hcSshpor\",\"name\":\"rules-get_rules\",\"input\":{\"filenames\":[\"postgres\"]}}]}": 1770833401315,
       "{\"role\":\"assistant\",\"content\":[{\"type\":\"tool_use\",\"id\":\"toolu_01UFBATGwdy8beBriFYC2tP2\",\"name\":\"database-schema-search\",\"input\":{\"query\":\"exchange rate refund return events\",\"database_id\":\"Loop Returns\"}}]}": 1770833401317,
       "{\"role\":\"user\",\"content\":[{\"type\":\"tool_result\",\"tool_use_id\":\"toolu_01NgZqLcPsgdn968hcSshpor\",\"content\":\"{\\\"success\\\":true,\\\"loaded_rule_filenames\\\":[\\\"postgres\\\"]}\"}]}": 1770833401321,
