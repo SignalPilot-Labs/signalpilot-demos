@@ -1,22 +1,5 @@
 [
   {
-    "id": "thread_d5c23f07-7c8e-4100-83e1-b5ac57277e86",
-    "name": "What is the avg revenue/mar...",
-    "messages": [
-      {
-        "role": "user",
-        "content": "What is the avg revenue/margin improvement we deliver?",
-        "id": "msg_1770838206628_21pr1ji",
-        "hidden": false
-      }
-    ],
-    "lastUpdated": 1770838206631,
-    "contexts": {},
-    "message_timestamps": {
-      "{\"role\":\"user\",\"content\":\"What is the avg revenue/margin improvement we deliver?\",\"id\":\"msg_1770838206628_21pr1ji\",\"hidden\":false}": 1770838206631
-    }
-  },
-  {
     "id": "thread_f5e39493-1be3-4192-9247-e60a79d0ea0c",
     "name": "What is the avg revenue/mar...",
     "messages": [
