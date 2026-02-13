@@ -5,7 +5,7 @@
     "messages": [
       {
         "role": "user",
-        "content": "How many active contributors by vertical and growth? <DATABASE_CONTEXT>#{database-865987d8-5777-4bcb-a1fe-9374f05d65c1}</DATABASE_CONTEXT>",
+        "content": "How many active contributors by vertical and growth?",
         "id": "msg_1771007236480_jmjdui7",
         "hidden": false
       },
@@ -463,7 +463,7 @@
       }
     },
     "message_timestamps": {
-      "{\"role\":\"user\",\"content\":\"How many active contributors by vertical and growth? <DATABASE_CONTEXT>#{database-865987d8-5777-4bcb-a1fe-9374f05d65c1}</DATABASE_CONTEXT>\",\"id\":\"msg_1771007236480_jmjdui7\",\"hidden\":false}": 1771007236482,
+      "{\"role\":\"user\",\"content\":\"How many active contributors by vertical and growth?\",\"id\":\"msg_1771007236480_jmjdui7\",\"hidden\":false}": 1771007236482,
       "{\"role\":\"assistant\",\"content\":[{\"type\":\"tool_use\",\"id\":\"toolu_01BppEJq9vfE72D8ckMUEwNu\",\"name\":\"rules-get_rules\",\"input\":{\"filenames\":[\"postgres\",\"data-visualization\"]}}]}": 1771007242413,
       "{\"role\":\"assistant\",\"content\":[{\"type\":\"tool_use\",\"id\":\"toolu_01N4FZ7pZWceDWGSjRBLf9hm\",\"name\":\"database-schema-search\",\"input\":{\"query\":\"active contributors vertical growth\",\"database_id\":\"Varos\"}}]}": 1771007242415,
       "{\"role\":\"user\",\"content\":[{\"type\":\"tool_result\",\"tool_use_id\":\"toolu_01BppEJq9vfE72D8ckMUEwNu\",\"content\":\"{\\\"success\\\":true,\\\"loaded_rule_filenames\\\":[\\\"postgres\\\",\\\"data-visualization\\\"]}\"}]}": 1771007242424,
