@@ -21,50 +21,101 @@
       "id": "usecase-1",
       "name": "Build an SPX Options IV Surface",
       "description": "Fit an SPX options IV surface from existing dataframes and ship publication-ready plots without rewriting your notebook.",
-      "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Export & Publish"],
-      "icp": ["Quant Research"]
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Export & Publish"
+      ],
+      "icp": [
+        "Quant Research"
+      ]
     },
     {
       "id": "usecase-2",
       "name": "Crypto Rolling Correlations & Heatmaps",
       "description": "Turn noisy crypto returns into rolling correlation views and heatmaps that highlight which assets actually move together.",
-      "category": ["Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["Quant Research"]
+      "category": [
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Quant Research"
+      ]
     },
     {
       "id": "usecase-4",
       "name": "PM2.5 Air Quality Forecasting (Beijing)",
       "description": "Extend a real PM2.5 forecasting notebook with new features, model runs, and plots ready for a paper or stakeholder report.",
-      "category": ["Multi-step Planning", "Plotting & Visualization", "Export & Publish"],
-      "icp": ["Scientific Research", "ML Engineers"]
+      "category": [
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Export & Publish"
+      ],
+      "icp": [
+        "Scientific Research",
+        "ML Engineers"
+      ]
     },
     {
       "id": "usecase-5",
-      "name": "Gold–Silver Pairs Trading Backtest",
-      "description": "Backtest a cointegration-based GLD/SLV mean-reversion strategy—from spread construction to trade rules and P&L—in one notebook.",
-      "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["Quant Research", "Product Engineers & Technical Founders"]
+      "name": "Gold\u2013Silver Pairs Trading Backtest",
+      "description": "Backtest a cointegration-based GLD/SLV mean-reversion strategy\u2014from spread construction to trade rules and P&L\u2014in one notebook.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Quant Research",
+        "Product Engineers & Technical Founders"
+      ]
     },
     {
       "id": "usecase-10",
       "name": "Campaign Spend vs Votes: NYC Elections",
       "description": "Clean and join messy NYC campaign CSVs, fuzzy-match candidates, and see which campaigns turned dollars into votes most efficiently.",
-      "category": ["Repo & Local File Scanning", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["Scientific Research"]
+      "category": [
+        "Repo & Local File Scanning",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Scientific Research"
+      ]
     },
     {
       "id": "usecase-12",
       "name": "Global Gold Reserves: 20-Year Country Panel",
-      "description": "Turn a wide country-by-year gold-reserve sheet into a tidy panel, rank gainers/losers from 2002–2022, and generate publication-ready visuals.",
-      "category": ["Repo & Local File Scanning", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results", "Export & Publish"],
-      "icp": ["Quant Research", "Scientific Research"]
+      "description": "Turn a wide country-by-year gold-reserve sheet into a tidy panel, rank gainers/losers from 2002\u20132022, and generate publication-ready visuals.",
+      "category": [
+        "Repo & Local File Scanning",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results",
+        "Export & Publish"
+      ],
+      "icp": [
+        "Quant Research",
+        "Scientific Research"
+      ]
     },
     {
       "id": "usecase-14",
       "name": "Alpaca Trading Volume by Asset Class",
       "description": "Break down total trading volume by asset class (stocks, options, crypto), visualize trends over time, and project crossover points between growing categories.",
-      "category": ["Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
+      "category": [
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
     }
   ],
   "replays": [
@@ -72,85 +123,208 @@
       "id": "usecase-3",
       "name": "Event-to-RSVP Funnel Drop-off (Amplitude + Internal DB)",
       "description": "Join Amplitude product events to internal RSVPs, analyze funnel drop-off, and generate a PM-ready narrative of where users churn.",
-      "category": ["DB & Schema Awareness", "Multi-step Planning", "Interpret Plots & Results"],
-      "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
     },
     {
       "id": "usecase-6",
       "name": "Crisis Drawdown Simulator: 2011 Euro Debt Shock",
       "description": "Simulate portfolio performance through the 2011 Euro debt crisis, compute drawdowns and recovery times, and visualize risk profiles.",
-      "category": ["Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["Quant Research", "Scientific Research"]
+      "category": [
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Quant Research",
+        "Scientific Research"
+      ]
     },
     {
       "id": "usecase-7",
       "name": "NBA Game Outcome Prediction from API Data",
       "description": "Pull multi-season NBA data via APIs, engineer features, and train a classifier to predict game outcomes with in-notebook evaluation.",
-      "category": ["Import from Web & APIs", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["ML Engineers", "Data Scientists & Analytics"]
+      "category": [
+        "Import from Web & APIs",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "ML Engineers",
+        "Data Scientists & Analytics"
+      ]
     },
     {
       "id": "usecase-8",
       "name": "A/B Test Analysis of Page Conversion Rates",
       "description": "Compare control vs treatment page performance, run proper stats, and turn conversion metrics into a clear ship/hold recommendation.",
-      "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["Data Scientists & Analytics"]
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics"
+      ]
     },
     {
       "id": "usecase-9",
       "name": "FOMC Event Study: Fed Rates vs Yield Curve",
       "description": "Analyze how FOMC rate decisions move the 2y/10y/30y curve with event windows, auto-generated plots, and commentary on inversions.",
-      "category": ["Import from Web & APIs", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["Quant Research", "Scientific Research"]
+      "category": [
+        "Import from Web & APIs",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Quant Research",
+        "Scientific Research"
+      ]
     },
     {
       "id": "usecase-11",
       "name": "Sector Rotation Backtest: ETF Momentum Strategy",
-      "description": "Prototype a sector ETF momentum strategy—pull prices, define rules, backtest, and compare against SPY and equal-weight benchmarks.",
-      "category": ["SignalPilot Rules & Skills", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["Quant Research", "Product Engineers & Technical Founders"]
+      "description": "Prototype a sector ETF momentum strategy\u2014pull prices, define rules, backtest, and compare against SPY and equal-weight benchmarks.",
+      "category": [
+        "SignalPilot Rules & Skills",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Quant Research",
+        "Product Engineers & Technical Founders"
+      ]
     },
     {
       "id": "usecase-15",
       "name": "Alpaca Regulatory Compliance Dashboard",
       "description": "Pull trade error rates and net capital ratios from PostgreSQL, assess SEC Rule 15c3-1 compliance, and surface open exceptions with FINRA exam risk.",
-      "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["Data Scientists & Analytics", "Quant Research"]
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Quant Research"
+      ]
     },
     {
       "id": "usecase-16",
       "name": "Human Interest: 401(k) AUM Growth Analysis",
       "description": "Track total AUM growth across 401(k) plans, decompose organic contributions vs market appreciation, and project the path to $15B.",
-      "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
     },
     {
       "id": "usecase-17",
       "name": "Incident.io ARR by Product Line",
       "description": "Break down ARR across Incident Response, On-Call, and Status Pages, visualize the product mix shift, and project when On-Call overtakes IR.",
-      "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
     },
     {
       "id": "usecase-18",
       "name": "Loop Returns: Exchange Rate & Revenue Retention",
       "description": "Measure platform-wide exchange-vs-refund rates, quantify revenue retained per percentage point shift, and analyze peak-season trends.",
-      "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
     },
     {
       "id": "usecase-19",
       "name": "Recurrency: Before vs After Revenue & Margin Lift",
       "description": "Compare per-customer order value, margin, and frequency before and after Recurrency go-live to quantify the platform's impact.",
-      "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["Data Scientists & Analytics", "Product Engineers & Technical Founders"]
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
     },
     {
       "id": "usecase-20",
       "name": "Shaped: CTR Lift from Recommendation Engine",
       "description": "Analyze A/B test results across verticals to measure Shaped's CTR lift, and show how catalog size and data volume drive recommendation quality.",
-      "category": ["DB & Schema Awareness", "Multi-step Planning", "Plotting & Visualization", "Interpret Plots & Results"],
-      "icp": ["Data Scientists & Analytics", "ML Engineers"]
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "ML Engineers"
+      ]
+    },
+    {
+      "id": "usecase-21",
+      "name": "Topline Pro: What is monthly churn by segment and tenure?",
+      "description": "Analyze what is monthly churn by segment and tenure? for Topline Pro (home services marketing platform for smbs), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-22",
+      "name": "Varos: How many active contributors by vertical and growth?",
+      "description": "Analyze how many active contributors by vertical and growth? for Varos (benchmarking platform where companies share anonymized performance data), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
     }
   ]
 }
