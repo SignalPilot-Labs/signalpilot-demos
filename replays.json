@@ -325,6 +325,36 @@
         "Data Scientists & Analytics",
         "Product Engineers & Technical Founders"
       ]
+    },
+    {
+      "id": "usecase-23",
+      "name": "Modern Health: What's our logo retention rate by employer size cohort, and which accounts are at risk of non-renewal?",
+      "description": "Analyze what's our logo retention rate by employer size cohort, and which accounts are at risk of non-renewal? for Modern Health (employer mental health benefits platform), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-24",
+      "name": "Canary Technologies: What's the average incremental revenue per property from upsells, and how does it vary by hotel segment?",
+      "description": "Analyze what's the average incremental revenue per property from upsells, and how does it vary by hotel segment? for Canary Technologies (hospitality technology platform for hotels), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
     }
   ]
 }
