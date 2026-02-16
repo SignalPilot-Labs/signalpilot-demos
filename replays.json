@@ -120,6 +120,186 @@
   ],
   "replays": [
     {
+      "id": "usecase-23",
+      "name": "Modern Health: What's our logo retention rate by employer size cohort, and which accounts are at risk of non-renewal?",
+      "description": "Analyze what's our logo retention rate by employer size cohort, and which accounts are at risk of non-renewal? for Modern Health (employer mental health benefits platform), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-24",
+      "name": "Canary Technologies: What's the average incremental revenue per property from upsells, and how does it vary by hotel segment?",
+      "description": "Analyze what's the average incremental revenue per property from upsells, and how does it vary by hotel segment? for Canary Technologies (hospitality technology platform for hotels), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-25",
+      "name": "TRM Labs: What's the ARR split between government and private sector, and how is the mix trending?",
+      "description": "Analyze what's the arr split between government and private sector, and how is the mix trending? for TRM Labs (blockchain intelligence platform for detecting crypto fraud and financial crime), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-26",
+      "name": "HappyRobot: What's the AI call success rate by call type (check calls, negotiations, scheduling)?",
+      "description": "Analyze what's the ai call success rate by call type (check calls, negotiations, scheduling)? for HappyRobot (ai-powered voice automation for freight and logistics), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-27",
+      "name": "Thatch: Revenue by channel \u2014 direct sales vs. broker vs. payroll partner embedded?",
+      "description": "Analyze revenue by channel \u2014 direct sales vs. broker vs. payroll partner embedded? for Thatch (health benefits platform with individual coverage hras and debit cards), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-28",
+      "name": "EasyPost: Revenue by carrier and how does the mix shift when rates change?",
+      "description": "Analyze revenue by carrier and how does the mix shift when rates change? for EasyPost (shipping api platform aggregating carrier rates for e-commerce), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-29",
+      "name": "Tala: What's the loan default rate by market (Kenya, Philippines, Mexico, India) and how is it trending?",
+      "description": "Analyze what's the loan default rate by market (kenya, philippines, mexico, india) and how is it trending? for Tala (mobile lending platform serving emerging markets), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-30",
+      "name": "Vendr: What's the average savings delivered per customer, and how does it vary by company size?",
+      "description": "Analyze what's the average savings delivered per customer, and how does it vary by company size? for Vendr (saas buying and negotiation platform), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-31",
+      "name": "ChowNow: Restaurant churn rate by subscription tier and acquisition channel?",
+      "description": "Analyze restaurant churn rate by subscription tier and acquisition channel? for ChowNow (online ordering platform for independent restaurants), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-20",
+      "name": "Shaped: CTR Lift from Recommendation Engine",
+      "description": "Analyze A/B test results across verticals to measure Shaped's CTR lift, and show how catalog size and data volume drive recommendation quality.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "ML Engineers"
+      ]
+    },
+    {
+      "id": "usecase-21",
+      "name": "Topline Pro: What is monthly churn by segment and tenure?",
+      "description": "Analyze what is monthly churn by segment and tenure? for Topline Pro (home services marketing platform for smbs), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-22",
+      "name": "Varos: How many active contributors by vertical and growth?",
+      "description": "Analyze how many active contributors by vertical and growth? for Varos (benchmarking platform where companies share anonymized performance data), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
       "id": "usecase-3",
       "name": "Event-to-RSVP Funnel Drop-off (Amplitude + Internal DB)",
       "description": "Join Amplitude product events to internal RSVPs, analyze funnel drop-off, and generate a PM-ready narrative of where users churn.",
@@ -270,186 +450,6 @@
       "id": "usecase-19",
       "name": "Recurrency: Before vs After Revenue & Margin Lift",
       "description": "Compare per-customer order value, margin, and frequency before and after Recurrency go-live to quantify the platform's impact.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "Product Engineers & Technical Founders"
-      ]
-    },
-    {
-      "id": "usecase-20",
-      "name": "Shaped: CTR Lift from Recommendation Engine",
-      "description": "Analyze A/B test results across verticals to measure Shaped's CTR lift, and show how catalog size and data volume drive recommendation quality.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "ML Engineers"
-      ]
-    },
-    {
-      "id": "usecase-21",
-      "name": "Topline Pro: What is monthly churn by segment and tenure?",
-      "description": "Analyze what is monthly churn by segment and tenure? for Topline Pro (home services marketing platform for smbs), with follow-up deep dives into segment contributions and risk windows.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "Product Engineers & Technical Founders"
-      ]
-    },
-    {
-      "id": "usecase-22",
-      "name": "Varos: How many active contributors by vertical and growth?",
-      "description": "Analyze how many active contributors by vertical and growth? for Varos (benchmarking platform where companies share anonymized performance data), with follow-up deep dives into segment contributions and risk windows.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "Product Engineers & Technical Founders"
-      ]
-    },
-    {
-      "id": "usecase-23",
-      "name": "Modern Health: What's our logo retention rate by employer size cohort, and which accounts are at risk of non-renewal?",
-      "description": "Analyze what's our logo retention rate by employer size cohort, and which accounts are at risk of non-renewal? for Modern Health (employer mental health benefits platform), with follow-up deep dives into segment contributions and risk windows.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "Product Engineers & Technical Founders"
-      ]
-    },
-    {
-      "id": "usecase-24",
-      "name": "Canary Technologies: What's the average incremental revenue per property from upsells, and how does it vary by hotel segment?",
-      "description": "Analyze what's the average incremental revenue per property from upsells, and how does it vary by hotel segment? for Canary Technologies (hospitality technology platform for hotels), with follow-up deep dives into segment contributions and risk windows.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "Product Engineers & Technical Founders"
-      ]
-    },
-    {
-      "id": "usecase-25",
-      "name": "TRM Labs: What's the ARR split between government and private sector, and how is the mix trending?",
-      "description": "Analyze what's the arr split between government and private sector, and how is the mix trending? for TRM Labs (blockchain intelligence platform for detecting crypto fraud and financial crime), with follow-up deep dives into segment contributions and risk windows.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "Product Engineers & Technical Founders"
-      ]
-    },
-    {
-      "id": "usecase-26",
-      "name": "HappyRobot: What's the AI call success rate by call type (check calls, negotiations, scheduling)?",
-      "description": "Analyze what's the ai call success rate by call type (check calls, negotiations, scheduling)? for HappyRobot (ai-powered voice automation for freight and logistics), with follow-up deep dives into segment contributions and risk windows.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "Product Engineers & Technical Founders"
-      ]
-    },
-    {
-      "id": "usecase-27",
-      "name": "Thatch: Revenue by channel \u2014 direct sales vs. broker vs. payroll partner embedded?",
-      "description": "Analyze revenue by channel \u2014 direct sales vs. broker vs. payroll partner embedded? for Thatch (health benefits platform with individual coverage hras and debit cards), with follow-up deep dives into segment contributions and risk windows.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "Product Engineers & Technical Founders"
-      ]
-    },
-    {
-      "id": "usecase-28",
-      "name": "EasyPost: Revenue by carrier and how does the mix shift when rates change?",
-      "description": "Analyze revenue by carrier and how does the mix shift when rates change? for EasyPost (shipping api platform aggregating carrier rates for e-commerce), with follow-up deep dives into segment contributions and risk windows.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "Product Engineers & Technical Founders"
-      ]
-    },
-    {
-      "id": "usecase-29",
-      "name": "Tala: What's the loan default rate by market (Kenya, Philippines, Mexico, India) and how is it trending?",
-      "description": "Analyze what's the loan default rate by market (kenya, philippines, mexico, india) and how is it trending? for Tala (mobile lending platform serving emerging markets), with follow-up deep dives into segment contributions and risk windows.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "Product Engineers & Technical Founders"
-      ]
-    },
-    {
-      "id": "usecase-30",
-      "name": "Vendr: What's the average savings delivered per customer, and how does it vary by company size?",
-      "description": "Analyze what's the average savings delivered per customer, and how does it vary by company size? for Vendr (saas buying and negotiation platform), with follow-up deep dives into segment contributions and risk windows.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "Product Engineers & Technical Founders"
-      ]
-    },
-    {
-      "id": "usecase-31",
-      "name": "ChowNow: Restaurant churn rate by subscription tier and acquisition channel?",
-      "description": "Analyze restaurant churn rate by subscription tier and acquisition channel? for ChowNow (online ordering platform for independent restaurants), with follow-up deep dives into segment contributions and risk windows.",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
