@@ -460,6 +460,21 @@
         "Data Scientists & Analytics",
         "Product Engineers & Technical Founders"
       ]
+    },
+    {
+      "id": "usecase-37",
+      "name": "Mattermost: What's the ARR split between self-hosted and cloud, and how is the cloud migration trend?",
+      "description": "Analyze what's the arr split between self-hosted and cloud, and how is the cloud migration trend? for Mattermost (open-source messaging and collaboration platform), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
     }
   ]
 }
