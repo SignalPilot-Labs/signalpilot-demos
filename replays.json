@@ -120,6 +120,21 @@
   ],
   "replays": [
     {
+      "id": "usecase-32",
+      "name": "Whatnot: What's the GMV per category and how is the mix shifting quarter-over-quarter?",
+      "description": "Analyze what's the gmv per category and how is the mix shifting quarter-over-quarter? for Whatnot (live shopping marketplace for collectibles and culture), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
       "id": "usecase-33",
       "name": "Retool: What's the ARR by customer segment (startup, mid-market, enterprise), and how is the enterprise mix trending?",
       "description": "Analyze what's the arr by customer segment (startup, mid-market, enterprise), and how is the enterprise mix trending? for Retool (low-code internal tools platform for enterprise), with follow-up deep dives into segment contributions and risk windows.",
