@@ -270,6 +270,66 @@
       ]
     },
     {
+      "id": "usecase-42",
+      "name": "Rollstack: What's the time saved per user per week on reporting, and how does it correlate with expansion within enterprise accounts?",
+      "description": "Analyze reporting automation ROI for Rollstack (automated data-driven presentations and reporting), with deep dives into data source usage, free-to-paid conversion, and enterprise pipeline growth.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-43",
+      "name": "Numeral: What's the tax filing accuracy rate by jurisdiction, and how does it compare to manual processes?",
+      "description": "Analyze what's the tax filing accuracy rate by jurisdiction, and how does it compare to manual processes? for Numeral (automated sales tax compliance platform), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-44",
+      "name": "Blend: What's the software platform revenue per banking customer, and how is the mortgage market recovery impacting volume-based revenue?",
+      "description": "Analyze what's the software platform revenue per banking customer, and how is the mortgage market recovery impacting volume-based revenue? for Blend (cloud banking platform for mortgages and consumer lending), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-45",
+      "name": "On Deck: What's the member-to-company conversion rate by fellowship cohort, and how does alumni fundraising success correlate with engagement metrics?",
+      "description": "Analyze fellowship outcomes for On Deck (community platform for founders and tech talent), with deep dives into retention by program, engagement-outcome correlation, and revenue per member trends.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
       "id": "usecase-46",
       "name": "Plaid: What's the API call volume by customer segment (fintech, neobank, enterprise), and how does it correlate with revenue per customer?",
       "description": "Analyze what's the api call volume by customer segment (fintech, neobank, enterprise), and how does it correlate with revenue per customer? for Plaid (api-first financial infrastructure platform), with follow-up deep dives into segment contributions and risk windows.",
@@ -303,6 +363,36 @@
       "id": "usecase-48",
       "name": "Gorgias: What's the ticket resolution rate by AI vs. human, and how does AI adoption correlate with customer retention?",
       "description": "Analyze what's the ticket resolution rate by ai vs. human, and how does ai adoption correlate with customer retention? for Gorgias (ai-powered customer support platform for ecommerce), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-49",
+      "name": "Gusto: What's the revenue per customer by segment (direct SMB vs. partner channel), and how is the Guideline acquisition impacting 401(k) attach rate?",
+      "description": "Analyze what's the revenue per customer by segment (direct smb vs. partner channel), and how is the guideline acquisition impacting 401(k) attach rate? for Gusto (all-in-one payroll, benefits, and hr platform for smbs), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-50",
+      "name": "Calendly: What's the conversion rate from free to paid by user segment, and which product features trigger the upgrade?",
+      "description": "Analyze what's the conversion rate from free to paid by user segment, and which product features trigger the upgrade? for Calendly (scheduling automation platform with plg-to-enterprise motion), with follow-up deep dives into segment contributions and risk windows.",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -645,66 +735,6 @@
       "id": "usecase-19",
       "name": "Recurrency: Before vs After Revenue & Margin Lift",
       "description": "Compare per-customer order value, margin, and frequency before and after Recurrency go-live to quantify the platform's impact.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "Product Engineers & Technical Founders"
-      ]
-    },
-    {
-      "id": "usecase-49",
-      "name": "Gusto: What's the revenue per customer by segment (direct SMB vs. partner channel), and how is the Guideline acquisition impacting 401(k) attach rate?",
-      "description": "Analyze what's the revenue per customer by segment (direct smb vs. partner channel), and how is the guideline acquisition impacting 401(k) attach rate? for Gusto (all-in-one payroll, benefits, and hr platform for smbs), with follow-up deep dives into segment contributions and risk windows.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "Product Engineers & Technical Founders"
-      ]
-    },
-    {
-      "id": "usecase-50",
-      "name": "Calendly: What's the conversion rate from free to paid by user segment, and which product features trigger the upgrade?",
-      "description": "Analyze what's the conversion rate from free to paid by user segment, and which product features trigger the upgrade? for Calendly (scheduling automation platform with plg-to-enterprise motion), with follow-up deep dives into segment contributions and risk windows.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "Product Engineers & Technical Founders"
-      ]
-    },
-    {
-      "id": "usecase-43",
-      "name": "Numeral: What's the tax filing accuracy rate by jurisdiction, and how does it compare to manual processes?",
-      "description": "Analyze what's the tax filing accuracy rate by jurisdiction, and how does it compare to manual processes? for Numeral (automated sales tax compliance platform), with follow-up deep dives into segment contributions and risk windows.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "Product Engineers & Technical Founders"
-      ]
-    },
-    {
-      "id": "usecase-44",
-      "name": "Blend: What's the software platform revenue per banking customer, and how is the mortgage market recovery impacting volume-based revenue?",
-      "description": "Analyze what's the software platform revenue per banking customer, and how is the mortgage market recovery impacting volume-based revenue? for Blend (cloud banking platform for mortgages and consumer lending), with follow-up deep dives into segment contributions and risk windows.",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
