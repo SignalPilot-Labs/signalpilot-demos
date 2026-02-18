@@ -120,6 +120,141 @@
   ],
   "replays": [
     {
+      "id": "usecase-33",
+      "name": "Retool: What's the ARR by customer segment (startup, mid-market, enterprise), and how is the enterprise mix trending?",
+      "description": "Analyze what's the arr by customer segment (startup, mid-market, enterprise), and how is the enterprise mix trending? for Retool (low-code internal tools platform for enterprise), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-34",
+      "name": "Ramp: What's the card spend volume per customer segment, and how does it correlate with software attach rate?",
+      "description": "Analyze what's the card spend volume per customer segment, and how does it correlate with software attach rate? for Ramp (corporate card and spend management platform), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-35",
+      "name": "Brex: What's the revenue mix between card interchange, software subscriptions, and treasury \u2014 and how is it trending post-acquisition announcement?",
+      "description": "Analyze what's the revenue mix between card interchange, software subscriptions, and treasury \u2014 and how is it trending post-acquisition announcement? for Brex (corporate card, treasury, and expense platform), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-36",
+      "name": "WHOOP: What's the member retention rate by subscription tier and acquisition cohort, and where are the biggest drop-off points?",
+      "description": "Analyze what's the member retention rate by subscription tier and acquisition cohort, and where are the biggest drop-off points? for WHOOP (wearable fitness and health monitoring subscription), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-37",
+      "name": "Mattermost: What's the ARR split between self-hosted and cloud, and how is the cloud migration trend?",
+      "description": "Analyze what's the arr split between self-hosted and cloud, and how is the cloud migration trend? for Mattermost (open-source messaging and collaboration platform), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-38",
+      "name": "Lucid Software: What's the ARR by product line (Lucidchart, Lucidspark, Lucidscale) and how is cross-sell performing?",
+      "description": "Analyze what's the arr by product line (lucidchart, lucidspark, lucidscale) and how is cross-sell performing? for Lucid Software (visual collaboration suite for diagramming and whiteboarding), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-39",
+      "name": "CircleCI: What's the revenue per customer by plan tier, and how is usage-based pricing impacting ARPU?",
+      "description": "Analyze what's the revenue per customer by plan tier, and how is usage-based pricing impacting arpu? for CircleCI (continuous integration and delivery platform), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-40",
+      "name": "Replit: What's the revenue breakdown between consumer subscriptions, Teams/enterprise, and AI credits \u2014 and how is the mix shifting?",
+      "description": "Analyze what's the revenue breakdown between consumer subscriptions, teams/enterprise, and ai credits \u2014 and how is the mix shifting? for Replit (browser-based ide and ai coding platform), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-41",
+      "name": "Zippi: What's the loan default rate by merchant segment and vintage, and how is it trending?",
+      "description": "Analyze what's the loan default rate by merchant segment and vintage, and how is it trending? for Zippi (pix-based lending platform for brazilian merchants), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
       "id": "usecase-23",
       "name": "Modern Health: What's our logo retention rate by employer size cohort, and which accounts are at risk of non-renewal?",
       "description": "Analyze what's our logo retention rate by employer size cohort, and which accounts are at risk of non-renewal? for Modern Health (employer mental health benefits platform), with follow-up deep dives into segment contributions and risk windows.",
@@ -450,21 +585,6 @@
       "id": "usecase-19",
       "name": "Recurrency: Before vs After Revenue & Margin Lift",
       "description": "Compare per-customer order value, margin, and frequency before and after Recurrency go-live to quantify the platform's impact.",
-      "category": [
-        "DB & Schema Awareness",
-        "Multi-step Planning",
-        "Plotting & Visualization",
-        "Interpret Plots & Results"
-      ],
-      "icp": [
-        "Data Scientists & Analytics",
-        "Product Engineers & Technical Founders"
-      ]
-    },
-    {
-      "id": "usecase-37",
-      "name": "Mattermost: What's the ARR split between self-hosted and cloud, and how is the cloud migration trend?",
-      "description": "Analyze what's the arr split between self-hosted and cloud, and how is the cloud migration trend? for Mattermost (open-source messaging and collaboration platform), with follow-up deep dives into segment contributions and risk windows.",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
