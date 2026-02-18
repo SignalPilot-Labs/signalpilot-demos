@@ -270,6 +270,51 @@
       ]
     },
     {
+      "id": "usecase-46",
+      "name": "Plaid: What's the API call volume by customer segment (fintech, neobank, enterprise), and how does it correlate with revenue per customer?",
+      "description": "Analyze what's the api call volume by customer segment (fintech, neobank, enterprise), and how does it correlate with revenue per customer? for Plaid (api-first financial infrastructure platform), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-47",
+      "name": "M1 Finance: What's the AUM per customer by segment (invest, borrow, spend), and how does multi-product adoption correlate with retention?",
+      "description": "Analyze what's the aum per customer by segment (invest, borrow, spend), and how does multi-product adoption correlate with retention? for M1 Finance (super-app for personal finance: invest, borrow, spend), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-48",
+      "name": "Gorgias: What's the ticket resolution rate by AI vs. human, and how does AI adoption correlate with customer retention?",
+      "description": "Analyze what's the ticket resolution rate by ai vs. human, and how does ai adoption correlate with customer retention? for Gorgias (ai-powered customer support platform for ecommerce), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
       "id": "usecase-23",
       "name": "Modern Health: What's our logo retention rate by employer size cohort, and which accounts are at risk of non-renewal?",
       "description": "Analyze what's our logo retention rate by employer size cohort, and which accounts are at risk of non-renewal? for Modern Health (employer mental health benefits platform), with follow-up deep dives into segment contributions and risk windows.",
@@ -600,6 +645,66 @@
       "id": "usecase-19",
       "name": "Recurrency: Before vs After Revenue & Margin Lift",
       "description": "Compare per-customer order value, margin, and frequency before and after Recurrency go-live to quantify the platform's impact.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-49",
+      "name": "Gusto: What's the revenue per customer by segment (direct SMB vs. partner channel), and how is the Guideline acquisition impacting 401(k) attach rate?",
+      "description": "Analyze what's the revenue per customer by segment (direct smb vs. partner channel), and how is the guideline acquisition impacting 401(k) attach rate? for Gusto (all-in-one payroll, benefits, and hr platform for smbs), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-50",
+      "name": "Calendly: What's the conversion rate from free to paid by user segment, and which product features trigger the upgrade?",
+      "description": "Analyze what's the conversion rate from free to paid by user segment, and which product features trigger the upgrade? for Calendly (scheduling automation platform with plg-to-enterprise motion), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-43",
+      "name": "Numeral: What's the tax filing accuracy rate by jurisdiction, and how does it compare to manual processes?",
+      "description": "Analyze what's the tax filing accuracy rate by jurisdiction, and how does it compare to manual processes? for Numeral (automated sales tax compliance platform), with follow-up deep dives into segment contributions and risk windows.",
+      "category": [
+        "DB & Schema Awareness",
+        "Multi-step Planning",
+        "Plotting & Visualization",
+        "Interpret Plots & Results"
+      ],
+      "icp": [
+        "Data Scientists & Analytics",
+        "Product Engineers & Technical Founders"
+      ]
+    },
+    {
+      "id": "usecase-44",
+      "name": "Blend: What's the software platform revenue per banking customer, and how is the mortgage market recovery impacting volume-based revenue?",
+      "description": "Analyze what's the software platform revenue per banking customer, and how is the mortgage market recovery impacting volume-based revenue? for Blend (cloud banking platform for mortgages and consumer lending), with follow-up deep dives into segment contributions and risk windows.",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
