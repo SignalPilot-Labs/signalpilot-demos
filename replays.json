@@ -60,8 +60,8 @@
     },
     {
       "id": "usecase-5",
-      "name": "Gold\u2013Silver Pairs Trading Backtest",
-      "description": "Backtest a cointegration-based GLD/SLV mean-reversion strategy\u2014from spread construction to trade rules and P&L\u2014in one notebook.",
+      "name": "Gold–Silver Pairs Trading Backtest",
+      "description": "Backtest a cointegration-based GLD/SLV mean-reversion strategy—from spread construction to trade rules and P&L—in one notebook.",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -90,7 +90,7 @@
     {
       "id": "usecase-12",
       "name": "Global Gold Reserves: 20-Year Country Panel",
-      "description": "Turn a wide country-by-year gold-reserve sheet into a tidy panel, rank gainers/losers from 2002\u20132022, and generate publication-ready visuals.",
+      "description": "Turn a wide country-by-year gold-reserve sheet into a tidy panel, rank gainers/losers from 2002–2022, and generate publication-ready visuals.",
       "category": [
         "Repo & Local File Scanning",
         "Multi-step Planning",
@@ -121,8 +121,11 @@
   "replays": [
     {
       "id": "usecase-32",
-      "name": "Whatnot: What's the GMV per category and how is the mix shifting quarter-over-quarter?",
+      "name": "What's the GMV per category and how is the mix shifting quarter-over-quarter?",
       "description": "Analyze what's the gmv per category and how is the mix shifting quarter-over-quarter? for Whatnot (live shopping marketplace for collectibles and culture), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Whatnot",
+      "stage": "Growth",
+      "questionType": "Revenue Ops",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -136,8 +139,11 @@
     },
     {
       "id": "usecase-33",
-      "name": "Retool: What's the ARR by customer segment (startup, mid-market, enterprise), and how is the enterprise mix trending?",
+      "name": "What's the ARR by customer segment (startup, mid-market, enterprise), and how is the enterprise mix trending?",
       "description": "Analyze what's the arr by customer segment (startup, mid-market, enterprise), and how is the enterprise mix trending? for Retool (low-code internal tools platform for enterprise), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Retool",
+      "stage": "Late Stage",
+      "questionType": "Revenue Ops",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -151,8 +157,11 @@
     },
     {
       "id": "usecase-34",
-      "name": "Ramp: What's the card spend volume per customer segment, and how does it correlate with software attach rate?",
+      "name": "What's the card spend volume per customer segment, and how does it correlate with software attach rate?",
       "description": "Analyze what's the card spend volume per customer segment, and how does it correlate with software attach rate? for Ramp (corporate card and spend management platform), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Ramp",
+      "stage": "Late Stage",
+      "questionType": "Performance & Efficiency",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -166,8 +175,11 @@
     },
     {
       "id": "usecase-35",
-      "name": "Brex: What's the revenue mix between card interchange, software subscriptions, and treasury \u2014 and how is it trending post-acquisition announcement?",
-      "description": "Analyze what's the revenue mix between card interchange, software subscriptions, and treasury \u2014 and how is it trending post-acquisition announcement? for Brex (corporate card, treasury, and expense platform), with follow-up deep dives into segment contributions and risk windows.",
+      "name": "What's the revenue mix between card interchange, software subscriptions, and treasury — and how is it trending post-acquisition announcement?",
+      "description": "Analyze what's the revenue mix between card interchange, software subscriptions, and treasury — and how is it trending post-acquisition announcement? for Brex (corporate card, treasury, and expense platform), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Brex",
+      "stage": "Late Stage",
+      "questionType": "Revenue Ops",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -181,8 +193,11 @@
     },
     {
       "id": "usecase-36",
-      "name": "WHOOP: What's the member retention rate by subscription tier and acquisition cohort, and where are the biggest drop-off points?",
+      "name": "What's the member retention rate by subscription tier and acquisition cohort, and where are the biggest drop-off points?",
       "description": "Analyze what's the member retention rate by subscription tier and acquisition cohort, and where are the biggest drop-off points? for WHOOP (wearable fitness and health monitoring subscription), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "WHOOP",
+      "stage": "Growth",
+      "questionType": "Retention & Churn",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -196,8 +211,11 @@
     },
     {
       "id": "usecase-37",
-      "name": "Mattermost: What's the ARR split between self-hosted and cloud, and how is the cloud migration trend?",
+      "name": "What's the ARR split between self-hosted and cloud, and how is the cloud migration trend?",
       "description": "Analyze what's the arr split between self-hosted and cloud, and how is the cloud migration trend? for Mattermost (open-source messaging and collaboration platform), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Mattermost",
+      "stage": "Growth",
+      "questionType": "Revenue Ops",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -211,8 +229,11 @@
     },
     {
       "id": "usecase-38",
-      "name": "Lucid Software: What's the ARR by product line (Lucidchart, Lucidspark, Lucidscale) and how is cross-sell performing?",
+      "name": "What's the ARR by product line (Lucidchart, Lucidspark, Lucidscale) and how is cross-sell performing?",
       "description": "Analyze what's the arr by product line (lucidchart, lucidspark, lucidscale) and how is cross-sell performing? for Lucid Software (visual collaboration suite for diagramming and whiteboarding), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Lucid Software",
+      "stage": "Late Stage",
+      "questionType": "Revenue Ops",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -226,8 +247,11 @@
     },
     {
       "id": "usecase-39",
-      "name": "CircleCI: What's the revenue per customer by plan tier, and how is usage-based pricing impacting ARPU?",
+      "name": "What's the revenue per customer by plan tier, and how is usage-based pricing impacting ARPU?",
       "description": "Analyze what's the revenue per customer by plan tier, and how is usage-based pricing impacting arpu? for CircleCI (continuous integration and delivery platform), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "CircleCI",
+      "stage": "Growth",
+      "questionType": "Performance & Efficiency",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -241,8 +265,11 @@
     },
     {
       "id": "usecase-40",
-      "name": "Replit: What's the revenue breakdown between consumer subscriptions, Teams/enterprise, and AI credits \u2014 and how is the mix shifting?",
-      "description": "Analyze what's the revenue breakdown between consumer subscriptions, teams/enterprise, and ai credits \u2014 and how is the mix shifting? for Replit (browser-based ide and ai coding platform), with follow-up deep dives into segment contributions and risk windows.",
+      "name": "What's the revenue breakdown between consumer subscriptions, Teams/enterprise, and AI credits — and how is the mix shifting?",
+      "description": "Analyze what's the revenue breakdown between consumer subscriptions, teams/enterprise, and ai credits — and how is the mix shifting? for Replit (browser-based ide and ai coding platform), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Replit",
+      "stage": "Growth",
+      "questionType": "Revenue Ops",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -256,8 +283,11 @@
     },
     {
       "id": "usecase-41",
-      "name": "Zippi: What's the loan default rate by merchant segment and vintage, and how is it trending?",
+      "name": "What's the loan default rate by merchant segment and vintage, and how is it trending?",
       "description": "Analyze what's the loan default rate by merchant segment and vintage, and how is it trending? for Zippi (pix-based lending platform for brazilian merchants), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Zippi",
+      "stage": "Seed & Series A",
+      "questionType": "Risk & Compliance",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -271,8 +301,11 @@
     },
     {
       "id": "usecase-42",
-      "name": "Rollstack: What's the time saved per user per week on reporting, and how does it correlate with expansion within enterprise accounts?",
+      "name": "What's the time saved per user per week on reporting, and how does it correlate with expansion within enterprise accounts?",
       "description": "Analyze reporting automation ROI for Rollstack (automated data-driven presentations and reporting), with deep dives into data source usage, free-to-paid conversion, and enterprise pipeline growth.",
+      "company": "Rollstack",
+      "stage": "Seed & Series A",
+      "questionType": "Performance & Efficiency",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -286,8 +319,11 @@
     },
     {
       "id": "usecase-43",
-      "name": "Numeral: What's the tax filing accuracy rate by jurisdiction, and how does it compare to manual processes?",
+      "name": "What's the tax filing accuracy rate by jurisdiction, and how does it compare to manual processes?",
       "description": "Analyze what's the tax filing accuracy rate by jurisdiction, and how does it compare to manual processes? for Numeral (automated sales tax compliance platform), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Numeral",
+      "stage": "Seed & Series A",
+      "questionType": "Performance & Efficiency",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -301,8 +337,11 @@
     },
     {
       "id": "usecase-44",
-      "name": "Blend: What's the software platform revenue per banking customer, and how is the mortgage market recovery impacting volume-based revenue?",
+      "name": "What's the software platform revenue per banking customer, and how is the mortgage market recovery impacting volume-based revenue?",
       "description": "Analyze what's the software platform revenue per banking customer, and how is the mortgage market recovery impacting volume-based revenue? for Blend (cloud banking platform for mortgages and consumer lending), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Blend",
+      "stage": "Late Stage",
+      "questionType": "Revenue Ops",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -316,8 +355,11 @@
     },
     {
       "id": "usecase-45",
-      "name": "On Deck: What's the member-to-company conversion rate by fellowship cohort, and how does alumni fundraising success correlate with engagement metrics?",
+      "name": "What's the member-to-company conversion rate by fellowship cohort, and how does alumni fundraising success correlate with engagement metrics?",
       "description": "Analyze fellowship outcomes for On Deck (community platform for founders and tech talent), with deep dives into retention by program, engagement-outcome correlation, and revenue per member trends.",
+      "company": "On Deck",
+      "stage": "Seed & Series A",
+      "questionType": "Conversion & Growth",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -331,8 +373,11 @@
     },
     {
       "id": "usecase-46",
-      "name": "Plaid: What's the API call volume by customer segment (fintech, neobank, enterprise), and how does it correlate with revenue per customer?",
+      "name": "What's the API call volume by customer segment (fintech, neobank, enterprise), and how does it correlate with revenue per customer?",
       "description": "Analyze what's the api call volume by customer segment (fintech, neobank, enterprise), and how does it correlate with revenue per customer? for Plaid (api-first financial infrastructure platform), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Plaid",
+      "stage": "Late Stage",
+      "questionType": "Performance & Efficiency",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -346,8 +391,11 @@
     },
     {
       "id": "usecase-47",
-      "name": "M1 Finance: What's the AUM per customer by segment (invest, borrow, spend), and how does multi-product adoption correlate with retention?",
+      "name": "What's the AUM per customer by segment (invest, borrow, spend), and how does multi-product adoption correlate with retention?",
       "description": "Analyze what's the aum per customer by segment (invest, borrow, spend), and how does multi-product adoption correlate with retention? for M1 Finance (super-app for personal finance: invest, borrow, spend), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "M1 Finance",
+      "stage": "Growth",
+      "questionType": "Retention & Churn",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -361,8 +409,11 @@
     },
     {
       "id": "usecase-48",
-      "name": "Gorgias: What's the ticket resolution rate by AI vs. human, and how does AI adoption correlate with customer retention?",
+      "name": "What's the ticket resolution rate by AI vs. human, and how does AI adoption correlate with customer retention?",
       "description": "Analyze what's the ticket resolution rate by ai vs. human, and how does ai adoption correlate with customer retention? for Gorgias (ai-powered customer support platform for ecommerce), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Gorgias",
+      "stage": "Growth",
+      "questionType": "Retention & Churn",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -376,8 +427,11 @@
     },
     {
       "id": "usecase-49",
-      "name": "Gusto: What's the revenue per customer by segment (direct SMB vs. partner channel), and how is the Guideline acquisition impacting 401(k) attach rate?",
+      "name": "What's the revenue per customer by segment (direct SMB vs. partner channel), and how is the Guideline acquisition impacting 401(k) attach rate?",
       "description": "Analyze what's the revenue per customer by segment (direct smb vs. partner channel), and how is the guideline acquisition impacting 401(k) attach rate? for Gusto (all-in-one payroll, benefits, and hr platform for smbs), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Gusto",
+      "stage": "Late Stage",
+      "questionType": "Revenue Ops",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -391,8 +445,11 @@
     },
     {
       "id": "usecase-50",
-      "name": "Calendly: What's the conversion rate from free to paid by user segment, and which product features trigger the upgrade?",
+      "name": "What's the conversion rate from free to paid by user segment, and which product features trigger the upgrade?",
       "description": "Analyze what's the conversion rate from free to paid by user segment, and which product features trigger the upgrade? for Calendly (scheduling automation platform with plg-to-enterprise motion), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Calendly",
+      "stage": "Late Stage",
+      "questionType": "Conversion & Growth",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -406,8 +463,11 @@
     },
     {
       "id": "usecase-23",
-      "name": "Modern Health: What's our logo retention rate by employer size cohort, and which accounts are at risk of non-renewal?",
+      "name": "What's our logo retention rate by employer size cohort, and which accounts are at risk of non-renewal?",
       "description": "Analyze what's our logo retention rate by employer size cohort, and which accounts are at risk of non-renewal? for Modern Health (employer mental health benefits platform), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Modern Health",
+      "stage": "Growth",
+      "questionType": "Retention & Churn",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -421,8 +481,11 @@
     },
     {
       "id": "usecase-24",
-      "name": "Canary Technologies: What's the average incremental revenue per property from upsells, and how does it vary by hotel segment?",
+      "name": "What's the average incremental revenue per property from upsells, and how does it vary by hotel segment?",
       "description": "Analyze what's the average incremental revenue per property from upsells, and how does it vary by hotel segment? for Canary Technologies (hospitality technology platform for hotels), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Canary Technologies",
+      "stage": "Seed & Series A",
+      "questionType": "Performance & Efficiency",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -436,8 +499,11 @@
     },
     {
       "id": "usecase-25",
-      "name": "TRM Labs: What's the ARR split between government and private sector, and how is the mix trending?",
+      "name": "What's the ARR split between government and private sector, and how is the mix trending?",
       "description": "Analyze what's the arr split between government and private sector, and how is the mix trending? for TRM Labs (blockchain intelligence platform for detecting crypto fraud and financial crime), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "TRM Labs",
+      "stage": "Growth",
+      "questionType": "Revenue Ops",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -451,8 +517,11 @@
     },
     {
       "id": "usecase-26",
-      "name": "HappyRobot: What's the AI call success rate by call type (check calls, negotiations, scheduling)?",
+      "name": "What's the AI call success rate by call type (check calls, negotiations, scheduling)?",
       "description": "Analyze what's the ai call success rate by call type (check calls, negotiations, scheduling)? for HappyRobot (ai-powered voice automation for freight and logistics), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "HappyRobot",
+      "stage": "Seed & Series A",
+      "questionType": "Performance & Efficiency",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -466,8 +535,11 @@
     },
     {
       "id": "usecase-27",
-      "name": "Thatch: Revenue by channel \u2014 direct sales vs. broker vs. payroll partner embedded?",
-      "description": "Analyze revenue by channel \u2014 direct sales vs. broker vs. payroll partner embedded? for Thatch (health benefits platform with individual coverage hras and debit cards), with follow-up deep dives into segment contributions and risk windows.",
+      "name": "Revenue by channel — direct sales vs. broker vs. payroll partner embedded?",
+      "description": "Analyze revenue by channel — direct sales vs. broker vs. payroll partner embedded? for Thatch (health benefits platform with individual coverage hras and debit cards), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Thatch",
+      "stage": "Seed & Series A",
+      "questionType": "Revenue Ops",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -481,8 +553,11 @@
     },
     {
       "id": "usecase-28",
-      "name": "EasyPost: Revenue by carrier and how does the mix shift when rates change?",
+      "name": "Revenue by carrier and how does the mix shift when rates change?",
       "description": "Analyze revenue by carrier and how does the mix shift when rates change? for EasyPost (shipping api platform aggregating carrier rates for e-commerce), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "EasyPost",
+      "stage": "Growth",
+      "questionType": "Revenue Ops",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -496,8 +571,11 @@
     },
     {
       "id": "usecase-29",
-      "name": "Tala: What's the loan default rate by market (Kenya, Philippines, Mexico, India) and how is it trending?",
+      "name": "What's the loan default rate by market (Kenya, Philippines, Mexico, India) and how is it trending?",
       "description": "Analyze what's the loan default rate by market (kenya, philippines, mexico, india) and how is it trending? for Tala (mobile lending platform serving emerging markets), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Tala",
+      "stage": "Growth",
+      "questionType": "Risk & Compliance",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -511,8 +589,11 @@
     },
     {
       "id": "usecase-30",
-      "name": "Vendr: What's the average savings delivered per customer, and how does it vary by company size?",
+      "name": "What's the average savings delivered per customer, and how does it vary by company size?",
       "description": "Analyze what's the average savings delivered per customer, and how does it vary by company size? for Vendr (saas buying and negotiation platform), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Vendr",
+      "stage": "Growth",
+      "questionType": "Performance & Efficiency",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -526,8 +607,11 @@
     },
     {
       "id": "usecase-31",
-      "name": "ChowNow: Restaurant churn rate by subscription tier and acquisition channel?",
+      "name": "Restaurant churn rate by subscription tier and acquisition channel?",
       "description": "Analyze restaurant churn rate by subscription tier and acquisition channel? for ChowNow (online ordering platform for independent restaurants), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "ChowNow",
+      "stage": "Growth",
+      "questionType": "Retention & Churn",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -541,8 +625,11 @@
     },
     {
       "id": "usecase-20",
-      "name": "Shaped: CTR Lift from Recommendation Engine",
+      "name": "CTR Lift from Recommendation Engine",
       "description": "Analyze A/B test results across verticals to measure Shaped's CTR lift, and show how catalog size and data volume drive recommendation quality.",
+      "company": "Shaped",
+      "stage": "Seed & Series A",
+      "questionType": "Modeling & Prediction",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -556,8 +643,11 @@
     },
     {
       "id": "usecase-21",
-      "name": "Topline Pro: What is monthly churn by segment and tenure?",
+      "name": "What is monthly churn by segment and tenure?",
       "description": "Analyze what is monthly churn by segment and tenure? for Topline Pro (home services marketing platform for smbs), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Topline Pro",
+      "stage": "Seed & Series A",
+      "questionType": "Retention & Churn",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -571,8 +661,11 @@
     },
     {
       "id": "usecase-22",
-      "name": "Varos: How many active contributors by vertical and growth?",
+      "name": "How many active contributors by vertical and growth?",
       "description": "Analyze how many active contributors by vertical and growth? for Varos (benchmarking platform where companies share anonymized performance data), with follow-up deep dives into segment contributions and risk windows.",
+      "company": "Varos",
+      "stage": "Seed & Series A",
+      "questionType": "Conversion & Growth",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -588,6 +681,9 @@
       "id": "usecase-3",
       "name": "Event-to-RSVP Funnel Drop-off (Amplitude + Internal DB)",
       "description": "Join Amplitude product events to internal RSVPs, analyze funnel drop-off, and generate a PM-ready narrative of where users churn.",
+      "company": "Others",
+      "stage": "Growth",
+      "questionType": "Conversion & Growth",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -602,6 +698,9 @@
       "id": "usecase-6",
       "name": "Crisis Drawdown Simulator: 2011 Euro Debt Shock",
       "description": "Simulate portfolio performance through the 2011 Euro debt crisis, compute drawdowns and recovery times, and visualize risk profiles.",
+      "company": "Others",
+      "stage": "Late Stage",
+      "questionType": "Modeling & Prediction",
       "category": [
         "Multi-step Planning",
         "Plotting & Visualization",
@@ -616,6 +715,9 @@
       "id": "usecase-7",
       "name": "NBA Game Outcome Prediction from API Data",
       "description": "Pull multi-season NBA data via APIs, engineer features, and train a classifier to predict game outcomes with in-notebook evaluation.",
+      "company": "Others",
+      "stage": "Growth",
+      "questionType": "Modeling & Prediction",
       "category": [
         "Import from Web & APIs",
         "Multi-step Planning",
@@ -631,6 +733,9 @@
       "id": "usecase-8",
       "name": "A/B Test Analysis of Page Conversion Rates",
       "description": "Compare control vs treatment page performance, run proper stats, and turn conversion metrics into a clear ship/hold recommendation.",
+      "company": "Others",
+      "stage": "Growth",
+      "questionType": "Conversion & Growth",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -645,6 +750,9 @@
       "id": "usecase-9",
       "name": "FOMC Event Study: Fed Rates vs Yield Curve",
       "description": "Analyze how FOMC rate decisions move the 2y/10y/30y curve with event windows, auto-generated plots, and commentary on inversions.",
+      "company": "Others",
+      "stage": "Late Stage",
+      "questionType": "Modeling & Prediction",
       "category": [
         "Import from Web & APIs",
         "Multi-step Planning",
@@ -659,7 +767,10 @@
     {
       "id": "usecase-11",
       "name": "Sector Rotation Backtest: ETF Momentum Strategy",
-      "description": "Prototype a sector ETF momentum strategy\u2014pull prices, define rules, backtest, and compare against SPY and equal-weight benchmarks.",
+      "description": "Prototype a sector ETF momentum strategy—pull prices, define rules, backtest, and compare against SPY and equal-weight benchmarks.",
+      "company": "Others",
+      "stage": "Late Stage",
+      "questionType": "Modeling & Prediction",
       "category": [
         "SignalPilot Rules & Skills",
         "Multi-step Planning",
@@ -673,8 +784,11 @@
     },
     {
       "id": "usecase-15",
-      "name": "Alpaca Regulatory Compliance Dashboard",
+      "name": "Regulatory Compliance Dashboard",
       "description": "Pull trade error rates and net capital ratios from PostgreSQL, assess SEC Rule 15c3-1 compliance, and surface open exceptions with FINRA exam risk.",
+      "company": "Alpaca",
+      "stage": "Growth",
+      "questionType": "Risk & Compliance",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -688,8 +802,11 @@
     },
     {
       "id": "usecase-16",
-      "name": "Human Interest: 401(k) AUM Growth Analysis",
+      "name": "401(k) AUM Growth Analysis",
       "description": "Track total AUM growth across 401(k) plans, decompose organic contributions vs market appreciation, and project the path to $15B.",
+      "company": "Human Interest",
+      "stage": "Growth",
+      "questionType": "Revenue Ops",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -703,8 +820,11 @@
     },
     {
       "id": "usecase-17",
-      "name": "Incident.io ARR by Product Line",
+      "name": "ARR by Product Line",
       "description": "Break down ARR across Incident Response, On-Call, and Status Pages, visualize the product mix shift, and project when On-Call overtakes IR.",
+      "company": "Incident.io",
+      "stage": "Growth",
+      "questionType": "Revenue Ops",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -718,8 +838,11 @@
     },
     {
       "id": "usecase-18",
-      "name": "Loop Returns: Exchange Rate & Revenue Retention",
+      "name": "Exchange Rate & Revenue Retention",
       "description": "Measure platform-wide exchange-vs-refund rates, quantify revenue retained per percentage point shift, and analyze peak-season trends.",
+      "company": "Loop Returns",
+      "stage": "Growth",
+      "questionType": "Performance & Efficiency",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
@@ -733,8 +856,11 @@
     },
     {
       "id": "usecase-19",
-      "name": "Recurrency: Before vs After Revenue & Margin Lift",
+      "name": "Before vs After Revenue & Margin Lift",
       "description": "Compare per-customer order value, margin, and frequency before and after Recurrency go-live to quantify the platform's impact.",
+      "company": "Recurrency",
+      "stage": "Seed & Series A",
+      "questionType": "Performance & Efficiency",
       "category": [
         "DB & Schema Awareness",
         "Multi-step Planning",
