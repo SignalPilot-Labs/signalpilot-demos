@@ -6,6 +6,20 @@
     "Quant Research": "Quants and trading researchers building models, backtests, and risk tools on internal data & helpers.",
     "Product Engineers & Technical Founders": "Hands-on builders who prototype data products, internal tools, and strategies across editor + notebooks."
   },
+  "stages": {
+    "Seed & Series A": { "bg": "rgba(134,239,172,0.08)", "border": "rgba(134,239,172,0.20)", "text": "#a3e0b4", "dot": "#86efac" },
+    "Growth":          { "bg": "rgba(139,92,246,0.10)",  "border": "rgba(139,92,246,0.22)",  "text": "#a78bfa", "dot": "#8b5cf6" },
+    "Late Stage":      { "bg": "rgba(244,114,182,0.10)", "border": "rgba(244,114,182,0.22)", "text": "#f0a0cc", "dot": "#f472b6" }
+  },
+  "questionTypes": {
+    "Revenue Ops":              "#e0a4ff",
+    "Retention & Churn":        "#ff6b8a",
+    "Conversion & Growth":      "#7dd3a8",
+    "Performance & Efficiency": "#7eb8ff",
+    "Risk & Compliance":        "#ffb86b",
+    "Modeling & Prediction":    "#a78bfa"
+  },
+  "heroGradient": "linear-gradient(91deg, rgba(232,221,252,0.85) 13%, #FFF 42%, rgba(220,210,248,0.55) 90%)",
   "categories": [
     "DB & Schema Awareness",
     "SignalPilot Rules & Skills",
