@@ -1,35 +1,3 @@
-Event Type,Time,User ID,Device ID,Auth Status,Platform
-User Arrived,2025-10-22T13:03:00Z,,dev_web_001,unauthenticated,Web
-RSVP Clicked,2025-10-22T13:04:00Z,,dev_web_001,unauthenticated,Web
-Login Prompt Shown,2025-10-22T13:06:00Z,,dev_web_001,unauthenticated,Web
-User Logged In,2025-10-22T13:07:00Z,user_1000,dev_web_001,authenticated,Web
-RSVP Logged,2025-10-22T13:09:00Z,user_1000,dev_web_001,authenticated,Web
-User Arrived,2025-10-22T13:03:00Z,,dev_web_002,unauthenticated,Web
-RSVP Clicked,2025-10-22T13:04:00Z,,dev_web_002,unauthenticated,Web
-Login Prompt Shown,2025-10-22T13:05:00Z,,dev_web_002,unauthenticated,Web
-User Logged In,2025-10-22T13:06:00Z,user_1001,dev_web_002,authenticated,Web
-RSVP Logged,2025-10-22T13:08:00Z,user_1001,dev_web_002,authenticated,Web
-User Arrived,2025-10-22T13:05:00Z,,dev_web_003,unauthenticated,Web
-User Arrived,2025-10-22T13:03:00Z,,dev_web_004,unauthenticated,Web
-RSVP Clicked,2025-10-22T13:05:00Z,,dev_web_004,unauthenticated,Web
-Login Prompt Shown,2025-10-22T13:06:00Z,,dev_web_004,unauthenticated,Web
-User Logged In,2025-10-22T13:07:00Z,user_1003,dev_web_004,authenticated,Web
-RSVP Logged,2025-10-22T13:08:00Z,user_1003,dev_web_004,authenticated,Web
-User Arrived,2025-10-22T13:00:00Z,,dev_web_005,unauthenticated,Web
-RSVP Clicked,2025-10-22T13:02:00Z,,dev_web_005,unauthenticated,Web
-Login Prompt Shown,2025-10-22T13:04:00Z,,dev_web_005,unauthenticated,Web
-User Arrived,2025-10-22T13:03:00Z,,dev_web_006,unauthenticated,Web
-RSVP Clicked,2025-10-22T13:05:00Z,,dev_web_006,unauthenticated,Web
-Login Prompt Shown,2025-10-22T13:07:00Z,,dev_web_006,unauthenticated,Web
-User Logged In,2025-10-22T13:08:00Z,user_1005,dev_web_006,authenticated,Web
-RSVP Logged,2025-10-22T13:09:00Z,user_1005,dev_web_006,authenticated,Web
-User Arrived,2025-10-22T13:04:00Z,,dev_web_007,unauthenticated,Web
-RSVP Clicked,2025-10-22T13:05:00Z,,dev_web_007,unauthenticated,Web
-Login Prompt Shown,2025-10-22T13:07:00Z,,dev_web_007,unauthenticated,Web
-User Arrived,2025-10-22T13:01:00Z,,dev_web_008,unauthenticated,Web
-User Arrived,2025-10-22T13:00:00Z,,dev_web_009,unauthenticated,Web
-RSVP Clicked,2025-10-22T13:02:00Z,,dev_web_009,unauthenticated,Web
-Login Prompt Shown,2025-10-22T13:03:00Z,,dev_web_009,unauthenticated,Web
-User Arrived,2025-10-22T13:05:00Z,,dev_web_010,unauthenticated,Web
-RSVP Clicked,2025-10-22T13:07:00Z,,dev_web_010,unauthenticated,Web
-Login Prompt Shown,2025-10-22T13:08:00Z,,dev_web_010,unauthenticated,Web
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ccf6a4cdc0187d13695fabf6fc4bd9fe20ba557b815ea183c87b079f7d3a058
+size 2441
