@@ -7,17 +7,38 @@
     "Product Engineers & Technical Founders": "Hands-on builders who prototype data products, internal tools, and strategies across editor + notebooks."
   },
   "stages": {
-    "Seed & Series A": { "bg": "rgba(134,239,172,0.08)", "border": "rgba(134,239,172,0.20)", "text": "#a3e0b4", "dot": "#86efac" },
-    "Growth":          { "bg": "rgba(139,92,246,0.10)",  "border": "rgba(139,92,246,0.22)",  "text": "#a78bfa", "dot": "#8b5cf6" },
-    "Late Stage":      { "bg": "rgba(244,114,182,0.10)", "border": "rgba(244,114,182,0.22)", "text": "#f0a0cc", "dot": "#f472b6" }
+    "Seed & Series A": {
+      "bg": "rgba(134,239,172,0.08)",
+      "border": "rgba(134,239,172,0.20)",
+      "text": "#a3e0b4",
+      "dot": "#86efac"
+    },
+    "Growth": {
+      "bg": "rgba(139,92,246,0.10)",
+      "border": "rgba(139,92,246,0.22)",
+      "text": "#a78bfa",
+      "dot": "#8b5cf6"
+    },
+    "Late Stage": {
+      "bg": "rgba(244,114,182,0.10)",
+      "border": "rgba(244,114,182,0.22)",
+      "text": "#f0a0cc",
+      "dot": "#f472b6"
+    },
+    "Others": {
+      "bg": "rgba(160,160,160,0.08)",
+      "border": "rgba(160,160,160,0.20)",
+      "text": "#a0a0a0",
+      "dot": "#888888"
+    }
   },
   "questionTypes": {
-    "Revenue Ops":              "#e0a4ff",
-    "Retention & Churn":        "#ff6b8a",
-    "Conversion & Growth":      "#7dd3a8",
+    "Revenue Ops": "#e0a4ff",
+    "Retention & Churn": "#ff6b8a",
+    "Conversion & Growth": "#7dd3a8",
     "Performance & Efficiency": "#7eb8ff",
-    "Risk & Compliance":        "#ffb86b",
-    "Modeling & Prediction":    "#a78bfa"
+    "Risk & Compliance": "#ffb86b",
+    "Modeling & Prediction": "#a78bfa"
   },
   "heroGradient": "linear-gradient(91deg, rgba(232,221,252,0.85) 13%, #FFF 42%, rgba(220,210,248,0.55) 90%)",
   "categories": [
@@ -696,7 +717,7 @@
       "name": "Event-to-RSVP Funnel Drop-off (Amplitude + Internal DB)",
       "description": "Join Amplitude product events to internal RSVPs, analyze funnel drop-off, and generate a PM-ready narrative of where users churn.",
       "company": "Others",
-      "stage": "Growth",
+      "stage": "Others",
       "questionType": "Conversion & Growth",
       "category": [
         "DB & Schema Awareness",
@@ -713,7 +734,7 @@
       "name": "Crisis Drawdown Simulator: 2011 Euro Debt Shock",
       "description": "Simulate portfolio performance through the 2011 Euro debt crisis, compute drawdowns and recovery times, and visualize risk profiles.",
       "company": "Others",
-      "stage": "Late Stage",
+      "stage": "Others",
       "questionType": "Modeling & Prediction",
       "category": [
         "Multi-step Planning",
@@ -730,7 +751,7 @@
       "name": "NBA Game Outcome Prediction from API Data",
       "description": "Pull multi-season NBA data via APIs, engineer features, and train a classifier to predict game outcomes with in-notebook evaluation.",
       "company": "Others",
-      "stage": "Growth",
+      "stage": "Others",
       "questionType": "Modeling & Prediction",
       "category": [
         "Import from Web & APIs",
@@ -748,7 +769,7 @@
       "name": "A/B Test Analysis of Page Conversion Rates",
       "description": "Compare control vs treatment page performance, run proper stats, and turn conversion metrics into a clear ship/hold recommendation.",
       "company": "Others",
-      "stage": "Growth",
+      "stage": "Others",
       "questionType": "Conversion & Growth",
       "category": [
         "DB & Schema Awareness",
@@ -765,7 +786,7 @@
       "name": "FOMC Event Study: Fed Rates vs Yield Curve",
       "description": "Analyze how FOMC rate decisions move the 2y/10y/30y curve with event windows, auto-generated plots, and commentary on inversions.",
       "company": "Others",
-      "stage": "Late Stage",
+      "stage": "Others",
       "questionType": "Modeling & Prediction",
       "category": [
         "Import from Web & APIs",
@@ -783,7 +804,7 @@
       "name": "Sector Rotation Backtest: ETF Momentum Strategy",
       "description": "Prototype a sector ETF momentum strategy—pull prices, define rules, backtest, and compare against SPY and equal-weight benchmarks.",
       "company": "Others",
-      "stage": "Late Stage",
+      "stage": "Others",
       "questionType": "Modeling & Prediction",
       "category": [
         "SignalPilot Rules & Skills",
